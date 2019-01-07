@@ -1,0 +1,17 @@
+.yeet {
+    height: 150px;
+    width: 40%;
+    background-color: rgba(98, 143, 238, 0.356);
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
+  }
+
+  .gust {
+      
+    position: relative;
+    border-bottom-right-radius: -200;
+  }
